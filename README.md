@@ -90,12 +90,12 @@ I'm **Sami Chaudhary**, founder and AI engineer at **[Lexvaxa](https://lexvaxa.c
 ## 📈 GitHub stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samiullah156-creator&show_icons=true&count_private=true&hide_border=true&title_color=167dfe&icon_color=9533fa&text_color=444&bg_color=00000000" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah156-creator&layout=compact&langs_count=8&hide_border=true&title_color=167dfe&text_color=444&bg_color=00000000" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samiullah156-creator&show_icons=true&count_private=true&hide_border=true&title_color=167dfe&icon_color=9533fa&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah156-creator&layout=compact&langs_count=8&hide_border=true&title_color=167dfe&text_color=8b949e&bg_color=00000000" alt="Top languages" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=samiullah156-creator&hide_border=true&background=00000000&ring=167dfe&fire=9533fa&currStreakLabel=167dfe&sideLabels=167dfe&dates=888" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=samiullah156-creator&hide_border=true&background=00000000&ring=167dfe&fire=9533fa&currStreakLabel=167dfe&sideLabels=167dfe&dates=8b949e" alt="GitHub streak" />
 </p>
 
 ## 🏆 GitHub trophies
