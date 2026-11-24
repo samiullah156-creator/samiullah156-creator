@@ -101,7 +101,7 @@ I'm **Sami Chaudhary**, founder and AI engineer at **[Lexvaxa](https://lexvaxa.c
 ## 🏆 GitHub trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samiullah156-creator&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=samiullah156-creator&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ## 📊 Contribution graph
